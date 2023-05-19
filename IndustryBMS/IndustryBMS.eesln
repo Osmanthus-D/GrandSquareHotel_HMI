@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--EmEditor Solution file-->
+<Solution>
+	<Projects>
+		<Project RelativePath="IndustryBMS.eeproj"/>
+	</Projects>
+
+	<GlobalOptions>
+		<SelectedType Value="2"/>
+		<SelectedPath Value="D:\GrandSquareHotel_HMI\trunk\IndustryBMS\filecopier.cpp"/>
+		<SelectedProject Value="D:\GrandSquareHotel_HMI\trunk\IndustryBMS\IndustryBMS.eeproj"/>
+		<StartUpProject Value="D:\GrandSquareHotel_HMI\trunk\IndustryBMS\IndustryBMS.eeproj"/>
+	</GlobalOptions>
+</Solution>
